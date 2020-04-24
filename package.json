@@ -1,0 +1,22 @@
+{
+  "name": "dokan-nodejs",
+  "version": "1.0.0",
+  "description": "Wedevs Dokan plugins Rest api Testing and Endpoint Response with Nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mdsami/dokan-nodejs.git"
+  },
+  "keywords": [
+    "Dokan"
+  ],
+  "author": "mdsami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdsami/dokan-nodejs/issues"
+  },
+  "homepage": "https://github.com/mdsami/dokan-nodejs#readme"
+}
